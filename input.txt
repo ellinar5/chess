@@ -1,0 +1,6 @@
+king 1 1
+queen 5 1
+rook 1 3
+bishop 3 7
+horse 5 5
+
